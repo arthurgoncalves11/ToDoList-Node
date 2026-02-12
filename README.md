@@ -45,9 +45,8 @@ Bem-vindo ao repositório **ToDoList-Node**! Este é um projeto de lista de tare
 
 4. **Configure o banco de dados**
 
-   - Certifique-se de ter o PostgreSQL instalado e em execução.
-   - Crie um banco de dados para o projeto.
-   - Configure o arquivo de conexão ao banco de dados (normalmente em `src/config/database.js`).
+   - Crie um cluster para o projeto no Mongo Atlas.
+   - Crie e configure o arquivo de conexão ao banco de dados (normalmente em `.env`).
 
 5. **Inicie o servidor**
 
