@@ -6,7 +6,7 @@ Bem-vindo ao repositório **ToDoList-Node**! Este é um projeto de lista de tare
 
 - **Node.js**: Ambiente de execução para JavaScript no lado do servidor.
 - **Express**: Framework para construção de servidores web.
-- **PostgreSQL**: Banco de dados relacional para armazenar as tarefas.
+- **Mongo**: Banco de dados NOSQL para armazenar as tarefas.
 
 ## 📦 Estrutura do Projeto
 
@@ -74,34 +74,9 @@ Bem-vindo ao repositório **ToDoList-Node**! Este é um projeto de lista de tare
 | PUT    | /tasks/\:id | Atualiza uma tarefa pelo ID |
 | DELETE | /tasks/\:id | Remove uma tarefa pelo ID   |
 
-## 💡 Melhorias Futuras
-
-- 🔐 **Autenticação e Autorização**
-- 📅 **Notificações de Prazo**
-- 🌐 **Interface Frontend** para interação com a API
-
-## 🤝 Contribuição
-
-Contribuições são sempre bem-vindas! Para contribuir:
-
-1. Faça um **fork** do repositório.
-2. Crie uma **branch** com a sua feature ou correção de bug.
-   ```bash
-   git checkout -b minha-feature
-   ```
-3. Faça o **commit** das suas alterações.
-   ```bash
-   git commit -m 'Adicionando nova funcionalidade'
-   ```
-4. Envie o **push** para a branch.
-   ```bash
-   git push origin minha-feature
-   ```
-5. Abra um **Pull Request** para revisão.
-
 ---
 
-Feito por [Arthur Santos Gonçalves](https://github.com/Thurzin11) 🚀
+Feito por [Arthur Santos Gonçalves](https://github.com/arthurgoncalves11) 🚀
 
 Se este projeto foi útil para você, não se esqueça de deixar uma ⭐ no repositório!
 
